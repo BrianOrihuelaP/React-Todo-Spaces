@@ -1,0 +1,40 @@
+*{
+  transition: all 0.4s ease;
+}
+
+body {
+  background: black
+    url("https://4kwallpapers.com/images/wallpapers/vegito-dragon-ball-z-neon-amoled-black-background-5k-3840x2160-5029.png")
+    repeat-y top fixed;
+  background-size: cover;
+}
+
+.container-app{
+  border: 2px solid #00FFEA;
+  width: 700px;
+  height: 94vh;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px 2px #95A5C2;
+  background-color: #00000000;
+}
+
+.container-app:hover{
+  background-color: #0000005d;
+}
+
+.msjNew{
+  text-align: center;
+  font-size: 32px;
+  text-shadow: 4px 4px 10px rgb(245, 245, 245);
+  color: rgb(8, 129, 209);
+  text-decoration: underline;
+}
+
+.todoImage{
+  width: 360px;
+  margin-left: 21%;
+  margin-top: 40px;
+}

@@ -1,0 +1,18 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: white;
+  color: rgb(49, 24, 9);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root{
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}

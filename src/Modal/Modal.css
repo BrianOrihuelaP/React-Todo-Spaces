@@ -1,0 +1,12 @@
+.ModalBackground{
+    background: rgba(128, 128, 128, 0.76);
+    position: fixed;
+    top: -10px;
+    left: -10px;
+    right: -10px;
+    bottom: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

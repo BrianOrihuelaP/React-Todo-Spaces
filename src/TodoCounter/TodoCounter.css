@@ -1,0 +1,9 @@
+.titulo{
+    font-size: 30px;
+    text-transform: capitalize;
+    color:  #fdfdfd;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 5px 6px 10px #8adef5;
+    text-decoration: underline overline;
+}
