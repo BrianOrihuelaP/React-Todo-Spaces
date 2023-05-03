@@ -1,5 +1,5 @@
 .TodoItem {
-  background-color: #00ffea49;
+  background-color: #8f0f9bc0;
   position: relative;
   width: 80%;
   display: flex;
@@ -17,7 +17,7 @@
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
-  color: black;
+  color: rgb(140, 219, 255);
   font-weight: bold;
 }
 
@@ -67,7 +67,7 @@
 }
 
 .TodoItem:hover {
-  background-color: #00ffea27;
+  background-color: #043c61a1;
   border: 2px solid #FF00F0;
   box-shadow: 2px 6px 10px rgba(255, 255, 255, 0.692);
 }
